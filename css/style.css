@@ -21,7 +21,7 @@ body {
     display: grid;
     grid-template-rows: repeat(1fr 1fr);
     position: relative;
-    ;
+    margin-bottom: 30px;
     margin-top: 2%;
 }
 
